@@ -1,0 +1,20 @@
+java -jar MeteoMonitorAnalyzer.jar 353170235 D:/meteoMonitorAnalyzer/log2/
+java -jar MeteoMonitorAnalyzer.jar 254160020 D:/meteoMonitorAnalyzer/log2/
+java -jar MeteoMonitorAnalyzer.jar 254140010 D:/meteoMonitorAnalyzer/log2/
+java -jar MeteoMonitorAnalyzer.jar 254150030 D:/meteoMonitorAnalyzer/log2/
+java -jar MeteoMonitorAnalyzer.jar 352150300 D:/meteoMonitorAnalyzer/log2/
+java -jar MeteoMonitorAnalyzer.jar 354150100 D:/meteoMonitorAnalyzer/log2/
+java -jar MeteoMonitorAnalyzer.jar 354160105 D:/meteoMonitorAnalyzer/log2/
+java -jar MeteoMonitorAnalyzer.jar 353160230 D:/meteoMonitorAnalyzer/log2/
+java -jar MeteoMonitorAnalyzer.jar 253150190 D:/meteoMonitorAnalyzer/log2/
+java -jar MeteoMonitorAnalyzer.jar 353150210 D:/meteoMonitorAnalyzer/log2/
+java -jar MeteoMonitorAnalyzer.jar 352140310 D:/meteoMonitorAnalyzer/log2/
+java -jar MeteoMonitorAnalyzer.jar 353140205 D:/meteoMonitorAnalyzer/log2/
+java -jar MeteoMonitorAnalyzer.jar 353160215 D:/meteoMonitorAnalyzer/log2/
+java -jar MeteoMonitorAnalyzer.jar 353140200 D:/meteoMonitorAnalyzer/log2/
+java -jar MeteoMonitorAnalyzer.jar 252140160 D:/meteoMonitorAnalyzer/log2/
+java -jar MeteoMonitorAnalyzer.jar 253140040 D:/meteoMonitorAnalyzer/log2/
+java -jar MeteoMonitorAnalyzer.jar 354160115 D:/meteoMonitorAnalyzer/log2/
+java -jar MeteoMonitorAnalyzer.jar 253160090 D:/meteoMonitorAnalyzer/log2/
+java -jar MeteoMonitorAnalyzer.jar 254170040 D:/meteoMonitorAnalyzer/log2/
+pause
